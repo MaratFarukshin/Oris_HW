@@ -1,0 +1,55 @@
+D:\Projects\KFU\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\bin\Debug\net9.0\SocialNetwork309.Persistence.deps.json
+D:\Projects\KFU\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\bin\Debug\net9.0\SocialNetwork309.Persistence.dll
+D:\Projects\KFU\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\bin\Debug\net9.0\SocialNetwork309.Persistence.pdb
+D:\Projects\KFU\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\KFU\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.AssemblyInfoInputs.cache
+D:\Projects\KFU\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.AssemblyInfo.cs
+D:\Projects\KFU\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.csproj.CoreCompileInputs.cache
+D:\Projects\KFU\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.dll
+D:\Projects\KFU\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\refint\SocialNetwork309.Persistence.dll
+D:\Projects\KFU\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.pdb
+D:\Projects\KFU\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\ref\SocialNetwork309.Persistence.dll
+D:\Projects\KFU\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\bin\Debug\net9.0\SocialNetwork309.Persistence.runtimeconfig.json
+D:\Projects\KFU\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\bin\Debug\net9.0\SocialNetwork309.Domain.dll
+D:\Projects\KFU\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\bin\Debug\net9.0\SocialNetwork309.Domain.pdb
+D:\Projects\KFU\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.csproj.AssemblyReference.cache
+D:\Projects\KFU\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNe.B8C5BD9F.Up2Date
+D:\Projects\KFU\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.genruntimeconfig.cache
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\bin\Debug\net9.0\SocialNetwork309.Persistence.deps.json
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\bin\Debug\net9.0\SocialNetwork309.Persistence.runtimeconfig.json
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\bin\Debug\net9.0\SocialNetwork309.Persistence.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\bin\Debug\net9.0\SocialNetwork309.Persistence.pdb
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\bin\Debug\net9.0\SocialNetwork309.Domain.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\bin\Debug\net9.0\SocialNetwork309.Domain.pdb
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.csproj.AssemblyReference.cache
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.AssemblyInfoInputs.cache
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.AssemblyInfo.cs
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNe.B8C5BD9F.Up2Date
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\refint\SocialNetwork309.Persistence.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.pdb
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.genruntimeconfig.cache
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\ref\SocialNetwork309.Persistence.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\bin\Debug\net9.0\SocialNetwork309.Application.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\bin\Debug\net9.0\SocialNetwork309.Application.pdb
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\bin\Debug\net9.0\SocialNetwork309.Persistence.deps.json
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\bin\Debug\net9.0\SocialNetwork309.Persistence.runtimeconfig.json
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\bin\Debug\net9.0\SocialNetwork309.Persistence.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\bin\Debug\net9.0\SocialNetwork309.Persistence.pdb
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\bin\Debug\net9.0\SocialNetwork309.Application.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\bin\Debug\net9.0\SocialNetwork309.Domain.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\bin\Debug\net9.0\SocialNetwork309.Application.pdb
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\bin\Debug\net9.0\SocialNetwork309.Domain.pdb
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.csproj.AssemblyReference.cache
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.AssemblyInfoInputs.cache
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.AssemblyInfo.cs
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNe.B8C5BD9F.Up2Date
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\refint\SocialNetwork309.Persistence.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.pdb
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\SocialNetwork309.Persistence.genruntimeconfig.cache
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Infrastructure\SocialNetwork309.Persistence\obj\Debug\net9.0\ref\SocialNetwork309.Persistence.dll

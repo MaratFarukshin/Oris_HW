@@ -1,0 +1,35 @@
+D:\Projects\KFU\SocialNetwork309\Core\SocialNetwork309.Domain\bin\Debug\net9.0\SocialNetwork309.Domain.deps.json
+D:\Projects\KFU\SocialNetwork309\Core\SocialNetwork309.Domain\bin\Debug\net9.0\SocialNetwork309.Domain.dll
+D:\Projects\KFU\SocialNetwork309\Core\SocialNetwork309.Domain\bin\Debug\net9.0\SocialNetwork309.Domain.pdb
+D:\Projects\KFU\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\SocialNetwork309.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\KFU\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\SocialNetwork309.Domain.AssemblyInfoInputs.cache
+D:\Projects\KFU\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\SocialNetwork309.Domain.AssemblyInfo.cs
+D:\Projects\KFU\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\SocialNetwork309.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\KFU\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\SocialNetwork309.Domain.dll
+D:\Projects\KFU\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\refint\SocialNetwork309.Domain.dll
+D:\Projects\KFU\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\SocialNetwork309.Domain.pdb
+D:\Projects\KFU\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\ref\SocialNetwork309.Domain.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Core\SocialNetwork309.Domain\bin\Debug\net9.0\SocialNetwork309.Domain.deps.json
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Core\SocialNetwork309.Domain\bin\Debug\net9.0\SocialNetwork309.Domain.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Core\SocialNetwork309.Domain\bin\Debug\net9.0\SocialNetwork309.Domain.pdb
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\SocialNetwork309.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\SocialNetwork309.Domain.AssemblyInfoInputs.cache
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\SocialNetwork309.Domain.AssemblyInfo.cs
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\SocialNetwork309.Domain.csproj.CoreCompileInputs.cache
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\SocialNetwork309.Domain.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\refint\SocialNetwork309.Domain.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\SocialNetwork309.Domain.pdb
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\ref\SocialNetwork309.Domain.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\SocialNetwork309.Domain.csproj.AssemblyReference.cache
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Core\SocialNetwork309.Domain\bin\Debug\net9.0\SocialNetwork309.Domain.deps.json
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Core\SocialNetwork309.Domain\bin\Debug\net9.0\SocialNetwork309.Domain.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Core\SocialNetwork309.Domain\bin\Debug\net9.0\SocialNetwork309.Domain.pdb
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\SocialNetwork309.Domain.csproj.AssemblyReference.cache
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\SocialNetwork309.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\SocialNetwork309.Domain.AssemblyInfoInputs.cache
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\SocialNetwork309.Domain.AssemblyInfo.cs
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\SocialNetwork309.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\SocialNetwork309.Domain.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\refint\SocialNetwork309.Domain.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\SocialNetwork309.Domain.pdb
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\Core\SocialNetwork309.Domain\obj\Debug\net9.0\ref\SocialNetwork309.Domain.dll

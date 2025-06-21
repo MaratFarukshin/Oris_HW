@@ -1,0 +1,1090 @@
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\appsettings.Development.json
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\appsettings.json
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.staticwebassets.runtime.json
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.staticwebassets.endpoints.json
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.exe
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.deps.json
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.runtimeconfig.json
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.pdb
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.AssemblyInfoInputs.cache
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.AssemblyInfo.cs
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.csproj.CoreCompileInputs.cache
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.RazorAssemblyInfo.cache
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.RazorAssemblyInfo.cs
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\scopedcss\bundle\SocialNetwork309.styles.css
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\scopedcss\projectbundle\SocialNetwork309.bundle.scp.css
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\jzyojn7rtt-b9sayid5wm.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\roi449htia-61n19gt1b8.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\mnec4lfly6-xtxxf3hu2r.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\hiwn1lwj8d-bqjiyaj88i.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\npf9fireoi-c2jlpeoesf.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\q1pm5wryts-erw9l3u2r3.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\yrcyt7dtex-aexeepp0ev.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\dfwqmfbskw-d7shbmvgxk.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\c49jhvg64z-ausgxo2sd3.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\sfvc787470-k8d9w2qqmf.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\bwv75miwcx-cosvhxvwiu.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\0qyoyp0fi3-ub07r2b239.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\prbv3yb044-fvhpjtyr6v.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\6xap91g5tp-b7pk76d08c.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\mpkpbg9zdd-fsbi9cje9m.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\8pz76madjh-rzd6atqjts.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\jy7ntk3j2j-ee0r1s7dh0.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\xlsmc0ripr-dxx9fxp4il.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\zfxetwg2ea-jd9uben2k1.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\jmczuhkkka-khv3u5hwcm.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\i31c23ssqv-r4e9w2rdcm.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\clr9juszdr-lcd1t2u6c8.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\hcmm659erz-c2oey78nd0.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\ia5rltzrib-tdbxkamptv.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\fctphlrhqs-j5mq2jizvt.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\plmz5qkfvb-06098lyss8.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\3b0dowkv1f-nvvlpmu67g.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\su34m1nve3-s35ty4nyc5.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\48n5pef1y3-pj5nd1wqec.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\d3mq8d7ntb-46ein0sx1k.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\n2tb1zi4t5-v0zj4ognzu.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\jtdegjtddd-37tfw0ft22.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\yg7rc2et50-hrwsygsryq.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\tkz5vrnpiu-pk9g2wxc8p.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\thl8gjwsno-ft3s53vfgj.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\uw8gdbz26s-6cfz1n2cew.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\xd1shq3ij2-6pdc2jztkx.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\8nexjoa5gi-493y06b0oq.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\2jgvwwk88f-iovd86k7lj.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\h4s7jv20yp-vr1egmr9el.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\9ob8rjt3sy-kbrnm935zg.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\2wa7dpewu2-jj8uyg4cgr.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\39ggrvs6uo-y7v9cxd14o.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\i8sfg3dhmi-notf2xhcfb.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\dimvbfmlwi-h1s4sie4z3.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\7l01t4hmp4-63fj8s7r0e.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\j5s9eo8huk-0j3bgjxly4.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\cq8wuwl5sq-47otxtyo56.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\z8tc0ht63o-4v8eqarkd7.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\oh2d38jwun-356vix0kms.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\chmu061zxo-83jwlth58m.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\x5ra5hmpz1-mrlpezrjn3.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\facbow7d2k-lzl9nlhx6b.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\3nbcauajqb-ag7o75518u.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\d800jr0p5z-x0q3zqp4vz.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\l7vo3on1r1-0i3buxo5is.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\mn2r0qgy3k-o1o13a6vjx.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\7p1xjyee7l-ttgo8qnofa.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\0386oipyk0-2z0ns9nrw6.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\f4vpttx1s7-muycvpuwrr.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\cwaeg800pk-87fc7y1x7t.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\iwwb6lcwk0-mlv21k5csn.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\td74s96pcx-mp5zp5ci4z.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\raj52rt7gs-mp5zp5ci4z.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets.build.json
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets.development.json
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets\msbuild.SocialNetwork309.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets\msbuild.SocialNetwork309.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets\msbuild.build.SocialNetwork309.props
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SocialNetwork309.props
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SocialNetwork309.props
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\refint\SocialNetwork309.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.pdb
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.genruntimeconfig.cache
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\ref\SocialNetwork309.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\och1iwer40-mz2bba8ryg.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\yvyejlnxbt-cf3bsqiecb.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\7039mmyh3t-ck0zyqd5dq.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\iitdh9bgmp-g70a9ycome.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\w1avn4itst-yrbdr63lx6.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\cnpbskvjtt-ur2a99wjah.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\1r6r6ctsrt-nq49vt4iwi.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\5n4iyt0qga-nx0hlrk99q.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\37s1pui2t0-khyjhxw1pj.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\kqm1ddmhbz-nnf7ebe0zv.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\a6v5qy00pz-4iqbolhpsd.gz
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Azure.Core.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Azure.Identity.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.ClientModel.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Text.Json.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Domain.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Persistence.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Persistence.pdb
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Domain.pdb
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.csproj.AssemblyReference.cache
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNe.A87DD09C.Up2Date
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Humanizer.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.CodeDom.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Build.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.Common.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\MediatR.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\MediatR.Contracts.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Application.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Application.pdb
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Infrastructur.dll
+D:\Projects\KFU\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Infrastructur.pdb
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\appsettings.json
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.staticwebassets.runtime.json
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.staticwebassets.endpoints.json
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.exe
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.deps.json
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.runtimeconfig.json
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.pdb
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Humanizer.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\MediatR.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\MediatR.Contracts.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Application.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Domain.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Infrastructur.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Persistence.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Application.pdb
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Infrastructur.pdb
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Persistence.pdb
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Domain.pdb
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.csproj.AssemblyReference.cache
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.AssemblyInfoInputs.cache
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.AssemblyInfo.cs
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.csproj.CoreCompileInputs.cache
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.RazorAssemblyInfo.cache
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.RazorAssemblyInfo.cs
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\scopedcss\bundle\SocialNetwork309.styles.css
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\scopedcss\projectbundle\SocialNetwork309.bundle.scp.css
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\och1iwer40-mz2bba8ryg.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\yvyejlnxbt-cf3bsqiecb.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\7039mmyh3t-ck0zyqd5dq.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\iitdh9bgmp-g70a9ycome.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\w1avn4itst-yrbdr63lx6.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\cnpbskvjtt-ur2a99wjah.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\1r6r6ctsrt-nq49vt4iwi.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\5n4iyt0qga-nx0hlrk99q.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\37s1pui2t0-khyjhxw1pj.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\kqm1ddmhbz-nnf7ebe0zv.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\a6v5qy00pz-4iqbolhpsd.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\jzyojn7rtt-b9sayid5wm.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\roi449htia-61n19gt1b8.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\mnec4lfly6-xtxxf3hu2r.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\hiwn1lwj8d-bqjiyaj88i.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\npf9fireoi-c2jlpeoesf.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\q1pm5wryts-erw9l3u2r3.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\yrcyt7dtex-aexeepp0ev.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\dfwqmfbskw-d7shbmvgxk.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\c49jhvg64z-ausgxo2sd3.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\sfvc787470-k8d9w2qqmf.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\bwv75miwcx-cosvhxvwiu.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\0qyoyp0fi3-ub07r2b239.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\prbv3yb044-fvhpjtyr6v.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\6xap91g5tp-b7pk76d08c.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\mpkpbg9zdd-fsbi9cje9m.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\8pz76madjh-rzd6atqjts.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\jy7ntk3j2j-ee0r1s7dh0.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\xlsmc0ripr-dxx9fxp4il.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\zfxetwg2ea-jd9uben2k1.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\jmczuhkkka-khv3u5hwcm.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\i31c23ssqv-r4e9w2rdcm.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\clr9juszdr-lcd1t2u6c8.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\hcmm659erz-c2oey78nd0.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\ia5rltzrib-tdbxkamptv.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\fctphlrhqs-j5mq2jizvt.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\plmz5qkfvb-06098lyss8.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\3b0dowkv1f-nvvlpmu67g.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\su34m1nve3-s35ty4nyc5.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\48n5pef1y3-pj5nd1wqec.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\d3mq8d7ntb-46ein0sx1k.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\n2tb1zi4t5-v0zj4ognzu.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\jtdegjtddd-37tfw0ft22.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\yg7rc2et50-hrwsygsryq.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\tkz5vrnpiu-pk9g2wxc8p.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\thl8gjwsno-ft3s53vfgj.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\uw8gdbz26s-6cfz1n2cew.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\xd1shq3ij2-6pdc2jztkx.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\8nexjoa5gi-493y06b0oq.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\2jgvwwk88f-iovd86k7lj.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\h4s7jv20yp-vr1egmr9el.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\9ob8rjt3sy-kbrnm935zg.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\2wa7dpewu2-jj8uyg4cgr.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\39ggrvs6uo-y7v9cxd14o.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\i8sfg3dhmi-notf2xhcfb.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\dimvbfmlwi-h1s4sie4z3.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\7l01t4hmp4-63fj8s7r0e.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\j5s9eo8huk-0j3bgjxly4.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\cq8wuwl5sq-47otxtyo56.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\z8tc0ht63o-4v8eqarkd7.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\oh2d38jwun-356vix0kms.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\chmu061zxo-83jwlth58m.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\x5ra5hmpz1-mrlpezrjn3.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\facbow7d2k-lzl9nlhx6b.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\3nbcauajqb-ag7o75518u.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\d800jr0p5z-x0q3zqp4vz.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\l7vo3on1r1-0i3buxo5is.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\mn2r0qgy3k-o1o13a6vjx.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\7p1xjyee7l-ttgo8qnofa.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\0386oipyk0-2z0ns9nrw6.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\f4vpttx1s7-muycvpuwrr.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\cwaeg800pk-87fc7y1x7t.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\iwwb6lcwk0-mlv21k5csn.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\td74s96pcx-mp5zp5ci4z.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\raj52rt7gs-mp5zp5ci4z.gz
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNe.A87DD09C.Up2Date
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\refint\SocialNetwork309.dll
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.pdb
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.genruntimeconfig.cache
+C:\Users\avery\Downloads\SocialNetwork309\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\ref\SocialNetwork309.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\appsettings.json
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.staticwebassets.runtime.json
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.staticwebassets.endpoints.json
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.exe
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.deps.json
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.runtimeconfig.json
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.pdb
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Humanizer.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\MediatR.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\MediatR.Contracts.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Application.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Domain.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Infrastructur.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Persistence.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Application.pdb
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Infrastructur.pdb
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Persistence.pdb
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\bin\Debug\net9.0\SocialNetwork309.Domain.pdb
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.csproj.AssemblyReference.cache
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.AssemblyInfoInputs.cache
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.AssemblyInfo.cs
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.csproj.CoreCompileInputs.cache
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.RazorAssemblyInfo.cache
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.RazorAssemblyInfo.cs
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\scopedcss\bundle\SocialNetwork309.styles.css
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\scopedcss\projectbundle\SocialNetwork309.bundle.scp.css
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\och1iwer40-mz2bba8ryg.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\yvyejlnxbt-cf3bsqiecb.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\7039mmyh3t-ck0zyqd5dq.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\iitdh9bgmp-g70a9ycome.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\w1avn4itst-yrbdr63lx6.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\cnpbskvjtt-ur2a99wjah.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\1r6r6ctsrt-nq49vt4iwi.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\5n4iyt0qga-nx0hlrk99q.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\37s1pui2t0-khyjhxw1pj.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\kqm1ddmhbz-nnf7ebe0zv.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\a6v5qy00pz-4iqbolhpsd.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\jzyojn7rtt-b9sayid5wm.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\roi449htia-61n19gt1b8.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\mnec4lfly6-xtxxf3hu2r.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\hiwn1lwj8d-bqjiyaj88i.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\npf9fireoi-c2jlpeoesf.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\q1pm5wryts-erw9l3u2r3.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\yrcyt7dtex-aexeepp0ev.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\dfwqmfbskw-d7shbmvgxk.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\c49jhvg64z-ausgxo2sd3.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\sfvc787470-k8d9w2qqmf.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\bwv75miwcx-cosvhxvwiu.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\0qyoyp0fi3-ub07r2b239.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\prbv3yb044-fvhpjtyr6v.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\6xap91g5tp-b7pk76d08c.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\mpkpbg9zdd-fsbi9cje9m.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\8pz76madjh-rzd6atqjts.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\jy7ntk3j2j-ee0r1s7dh0.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\xlsmc0ripr-dxx9fxp4il.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\zfxetwg2ea-jd9uben2k1.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\jmczuhkkka-khv3u5hwcm.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\i31c23ssqv-r4e9w2rdcm.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\clr9juszdr-lcd1t2u6c8.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\hcmm659erz-c2oey78nd0.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\ia5rltzrib-tdbxkamptv.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\fctphlrhqs-j5mq2jizvt.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\plmz5qkfvb-06098lyss8.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\3b0dowkv1f-nvvlpmu67g.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\su34m1nve3-s35ty4nyc5.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\48n5pef1y3-pj5nd1wqec.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\d3mq8d7ntb-46ein0sx1k.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\n2tb1zi4t5-v0zj4ognzu.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\jtdegjtddd-37tfw0ft22.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\yg7rc2et50-hrwsygsryq.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\tkz5vrnpiu-pk9g2wxc8p.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\thl8gjwsno-ft3s53vfgj.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\uw8gdbz26s-6cfz1n2cew.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\xd1shq3ij2-6pdc2jztkx.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\8nexjoa5gi-493y06b0oq.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\2jgvwwk88f-iovd86k7lj.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\h4s7jv20yp-vr1egmr9el.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\9ob8rjt3sy-kbrnm935zg.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\2wa7dpewu2-jj8uyg4cgr.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\39ggrvs6uo-y7v9cxd14o.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\i8sfg3dhmi-notf2xhcfb.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\dimvbfmlwi-h1s4sie4z3.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\7l01t4hmp4-63fj8s7r0e.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\j5s9eo8huk-0j3bgjxly4.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\cq8wuwl5sq-47otxtyo56.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\z8tc0ht63o-4v8eqarkd7.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\oh2d38jwun-356vix0kms.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\chmu061zxo-83jwlth58m.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\x5ra5hmpz1-mrlpezrjn3.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\facbow7d2k-lzl9nlhx6b.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\3nbcauajqb-ag7o75518u.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\d800jr0p5z-x0q3zqp4vz.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\l7vo3on1r1-0i3buxo5is.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\mn2r0qgy3k-o1o13a6vjx.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\7p1xjyee7l-ttgo8qnofa.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\0386oipyk0-2z0ns9nrw6.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\f4vpttx1s7-muycvpuwrr.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\cwaeg800pk-87fc7y1x7t.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\iwwb6lcwk0-mlv21k5csn.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\td74s96pcx-mp5zp5ci4z.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\compressed\raj52rt7gs-mp5zp5ci4z.gz
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets\msbuild.SocialNetwork309.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets\msbuild.SocialNetwork309.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets\msbuild.build.SocialNetwork309.props
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SocialNetwork309.props
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SocialNetwork309.props
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNe.A87DD09C.Up2Date
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\refint\SocialNetwork309.dll
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.pdb
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\SocialNetwork309.genruntimeconfig.cache
+C:\Users\bulat\Downloads\Telegram Desktop\SocialNetwork309 AVERK\SocialNetwork\SocialNetwork309\SocialNetwork309\obj\Debug\net9.0\ref\SocialNetwork309.dll

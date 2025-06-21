@@ -1,0 +1,733 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\SocialNetwork309.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SocialNetwork309.mp5zp5ci4z.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\css\\tailwind.css",
+      "PackagePath": "staticwebassets\\assets\\css\\tailwind.css"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\ad_pattern.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ad_pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\avatars\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\avatars\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\avatars\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\avatars\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\avatars\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\avatars\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\avatars\\avatar-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\avatars\\avatar-lg-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-lg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\avatars\\avatar-lg-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-lg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\avatars\\avatar-lg-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-lg-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\avatars\\avatar-lg-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\avatar-lg-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\avatars\\profile-cover.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\profile-cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\blog\\img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\blog\\img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\blog\\img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\blog\\img-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\blog\\img-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\category\\business.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category\\business.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\category\\health.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category\\health.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\category\\science-and-tech.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category\\science-and-tech.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\category\\travel.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\category\\travel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\demos\\beams.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\beams.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\demos\\photo1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\photo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\demos\\photo2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\photo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\demos\\photo3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\photo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\demos\\photo4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\photo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\demos\\slider1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\demos\\slider2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\slider2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\demos\\slider3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\slider3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\demos\\slider4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\slider4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\events\\img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\events\\img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\events\\img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\events\\img-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\events\\listing-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\listing-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\events\\listing-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\listing-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\events\\listing-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\listing-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\events\\listing-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\listing-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\events\\listing-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\listing-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\funding\\funder-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\funding\\funder-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\funding\\funder-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\funding\\funder-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\funding\\funder-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\funding\\funder-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\funding\\funder-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\funding\\funder-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\games\\img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\games\\img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\games\\img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\games\\img-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\games\\img-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\games\\img-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\games\\img-lg-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\img-lg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\games\\img-lg-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\img-lg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\games\\img-lg-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\img-lg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\group\\group-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\group\\group-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\group\\group-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\group\\group-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\group\\group-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\group\\group-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\group\\group-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\group\\group-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\group\\group-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\group\\group-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\group\\group-avature.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\group\\group-avature.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\group\\group-cover-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\group\\group-cover-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\group\\group-cover-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\group\\group-cover-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\group\\group-cover-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\group\\group-cover-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\group\\group-cover-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\group\\group-cover-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\group\\group-cover-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\group\\group-cover-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\group\\group-cover.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\group\\group-cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\icon-play.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-play.svg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\icons\\blog-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\blog-2.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\icons\\blog.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\blog.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\icons\\event-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\event-2.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\icons\\event.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\event.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\icons\\fund.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\fund.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\icons\\game.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\game.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\icons\\group-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\group-2.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\icons\\group.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\group.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\icons\\home.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\home.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\icons\\market.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\market.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\icons\\message.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\message.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\icons\\page.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\page.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\icons\\video.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\video.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\logo-light.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-light.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\logo-mobile-light.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-mobile-light.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\logo-mobile.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-mobile.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\post\\img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\post\\img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\post\\img-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\post\\post-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post\\post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\video\\img-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\video\\img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\video\\img-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\video\\img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\video\\img-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\video\\img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\video\\img-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\video\\img-4.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\images\\video\\img-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\video\\img-5.png"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\js\\simplebar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\simplebar.js"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\js\\uikit.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\uikit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "PackagePath": "staticwebassets\\assets\\syntax-highlighter\\scripts\\shBrushJScript.js"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "PackagePath": "staticwebassets\\assets\\syntax-highlighter\\scripts\\shBrushXml.js"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\syntax-highlighter\\scripts\\shCore.js",
+      "PackagePath": "staticwebassets\\assets\\syntax-highlighter\\scripts\\shCore.js"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\syntax-highlighter\\styles\\shCore.css",
+      "PackagePath": "staticwebassets\\assets\\syntax-highlighter\\styles\\shCore.css"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\assets\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "PackagePath": "staticwebassets\\assets\\syntax-highlighter\\styles\\shCoreMidnight.css"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\SocialNetwork309\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SocialNetwork309.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SocialNetwork309.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.SocialNetwork309.props",
+      "PackagePath": "build\\SocialNetwork309.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.SocialNetwork309.props",
+      "PackagePath": "buildMultiTargeting\\SocialNetwork309.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.SocialNetwork309.props",
+      "PackagePath": "buildTransitive\\SocialNetwork309.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,306 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Infrastructur\\SocialNetwork309.Infrastructur.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj",
+        "projectName": "SocialNetwork309.Application",
+        "projectPath": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj",
+        "packagesPath": "C:\\Users\\bulat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Core\\SocialNetwork309.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bulat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Core\\SocialNetwork309.Domain\\SocialNetwork309.Domain.csproj": {
+                "projectPath": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Core\\SocialNetwork309.Domain\\SocialNetwork309.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Core\\SocialNetwork309.Domain\\SocialNetwork309.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Core\\SocialNetwork309.Domain\\SocialNetwork309.Domain.csproj",
+        "projectName": "SocialNetwork309.Domain",
+        "projectPath": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Core\\SocialNetwork309.Domain\\SocialNetwork309.Domain.csproj",
+        "packagesPath": "C:\\Users\\bulat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Core\\SocialNetwork309.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bulat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Infrastructur\\SocialNetwork309.Infrastructur.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Infrastructur\\SocialNetwork309.Infrastructur.csproj",
+        "projectName": "SocialNetwork309.Infrastructur",
+        "projectPath": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Infrastructur\\SocialNetwork309.Infrastructur.csproj",
+        "packagesPath": "C:\\Users\\bulat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Infrastructur\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bulat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj": {
+                "projectPath": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj"
+              },
+              "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj": {
+                "projectPath": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj",
+        "projectName": "SocialNetwork309.Persistence",
+        "projectPath": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\SocialNetwork309.Persistence.csproj",
+        "packagesPath": "C:\\Users\\bulat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Infrastructure\\SocialNetwork309.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bulat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj": {
+                "projectPath": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Core\\SocialNetwork309.Application\\SocialNetwork309.Application.csproj"
+              },
+              "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Core\\SocialNetwork309.Domain\\SocialNetwork309.Domain.csproj": {
+                "projectPath": "C:\\Users\\bulat\\Downloads\\Telegram Desktop\\SocialNetwork309 AVERK\\SocialNetwork\\SocialNetwork309\\Core\\SocialNetwork309.Domain\\SocialNetwork309.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
